@@ -1,0 +1,92 @@
+
+{
+    "lists":{
+        "topicList":[
+                {
+                    "id":1,
+                    "title":"Society hot issues",
+                    "imgUrl":"https://www.insurancejournal.com/app/uploads/2014/03/fire.jpg"
+                },
+                {
+                    "id":2,
+                    "title":"Hand Painted",
+                    "imgUrl":"https://images.unsplash.com/photo-1525909002-1b05e0c869d8?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+                },
+                {
+                    "id":3,
+                    "title":"Cats",
+                    "imgUrl":"https://png.pngtree.com/element_origin_min_pic/17/03/26/6fe29989952469c319534fdadc799c75.jpg"
+                },
+                {
+                    "id":4,
+                    "title":"Vehicle",
+                    "imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT89W-MWxfVmKjefwmp9HLqdqlYYH1JjVrWrkEp5Ohol3NRIapE"
+                },
+                {
+                    "id":5,
+                    "title":"New Web development technology",
+                    "imgUrl":"https://dwglogo.com/wp-content/uploads/2017/09/React_logo_vector.svg"
+                },
+                {
+                    "id":6,
+                    "title":"Spider man",
+                    "imgUrl":"https://cdn.shopify.com/s/files/1/0859/0626/products/Spidey_eyes_900x.png?v=1539518222"
+                }
+        ],
+        "contentList":[
+            {
+                "id":1,
+                "title":"How to Be an Artist",
+                "imgUrl":"http://flarrio.com/wp-content/uploads/2016/08/Artistic-Machines-Flarrio.jpg",
+                "disp":"33 rules to take you from clueless amateur to generational talent (or at least help you live life a little more creatively).",
+                "author":"Jerry Saltz",
+                "readSpeed":"26 min read"
+            },
+            {
+                "id":2,
+                "title":"Using Google Maps costs more than you think.",
+                "imgUrl":"http://www.gcp.com/wp-content/uploads/2015/12/local-seo-maps-directories.jpg",
+                "disp":"Just because you are not exchanging money to use Google Maps does not mean you are not exchanging value. I intend to show you how much.",
+                "author":"Jason T. Voiovich in The Startup",
+                "readSpeed":"13 min read"
+            },
+            {
+                "id":3,
+                "title":"Work-life balance. Yes, it’s a thing.",
+                "imgUrl":"http://www.sandboxadvisors.com/wp-content/uploads/2016/06/43621207_ml.jpg",
+                "disp":"I had a rambling conversation with a colleague over a beer. Conversations after work on Friday should be rambling. We’ve known each other…",
+                "author":"Donna Goodaker",
+                "readSpeed":"8 min read"
+            }
+        ],
+        "recommendList":[
+            {
+                "id":1,
+                "text":"December trending"
+              
+            },
+            {
+                "id":2,
+                "text":"30 Days hot news"
+            
+            },
+            {
+                "id":3,
+                "text":"Continued story"
+           
+            },
+            {
+                "id":4,
+                "text":"M-Lessons"
+              
+            },
+            {
+                "id":5,
+                "text":"Fiction novel"
+                
+            }
+        ]
+    }
+}
+            
+    
